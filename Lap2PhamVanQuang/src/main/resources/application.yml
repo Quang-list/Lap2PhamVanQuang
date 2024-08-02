@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Spring_DemoT2208
+  datasource:
+    url:
+    username:
+    password:
